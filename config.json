@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productdarse",
+        "uuid": 847458,
+        "checksum": "mk6svo"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
